@@ -1,0 +1,8 @@
+{
+  "appId": "com.royals.mathcraft",
+  "appName": "MathCraft: Visual Geometry",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "MathCraft: Visual Geometry",
+  "short_name": "MathCraft",
+  "id": "com.royals.mathcraft",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080c16",
+  "theme_color": "#080c16",
+  "description": "Intuitive visual mathematics and geometry sandbox with interactive proofs, dynamic calculus, and arcade puzzles.",
+  "categories": ["education", "games", "productivity"],
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
